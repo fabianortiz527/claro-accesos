@@ -1,0 +1,30 @@
+# Proyecto Claro Accesos
+
+Sistema backend para la gestión de acceso a estaciones base de telecomunicaciones.
+
+## Descripción
+
+Este sistema permite:
+- Autenticación de usuarios
+- Gestión de estaciones
+- Solicitudes de acceso
+- Aprobación de solicitudes
+- Registro de accesos
+
+## Tecnologías usadas
+
+- Node.js
+- Express
+- MySQL
+
+## Instalación
+
+1. Clonar repositorio
+2. Ejecutar:
+   npm install
+3. Ejecutar servidor:
+   node app.js
+
+## Autor
+
+Fabian Ortiz
